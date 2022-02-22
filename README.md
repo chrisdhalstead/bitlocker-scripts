@@ -25,18 +25,18 @@ Usage:
 ​								Fixed Drives - EncryptionMethodWithXtsFdv <br>
 ​								Removable Drives - EncryptionMethodWithXtsRdv<br>
 
-​								Example:  $key_name = "EncryptionMethodWithXtsRdv"<br>
+​								Example:  `$key_name = "EncryptionMethodWithXtsRdv"`<br>
 
 ​				  `$ciphervalue = "cipher-value"` - The cipher value
 
 ​							Values:
 
-​									AES-CBC 128-bit = 3
-​									AES-CBC 256-bit = 4
-​									XTS-AES 128-bit (default) - 6
-​									XTS-AES 256-bit - 7
+​									AES-CBC 128-bit = 3<br>
+​									AES-CBC 256-bit = 4<br>
+​									XTS-AES 128-bit (default) - 6<br>
+​									XTS-AES 256-bit - 7<br>
 
-​									Example:  $cipher = "7"
+​									Example:  `$cipher = "7"`
 
 Output:
 
@@ -44,4 +44,26 @@ Output:
 
 ------
 
-​	
+**bitlocker_encryption_type_sensor.ps1** - Set the Encryption Type for Bitlocker to go Enabled Removable Drives.	
+
+Return Type: String
+
+Run Context: System
+
+Usage:  
+
+​	Update the following line:
+
+​				`$encryptionvalue = "0"` - How to Encrypt Removable Drives
+
+​							Values:
+
+​							 Allow User To Choose (Default) - 0<br>							 Used Space Only Encryption - 3 <br>
+​							 Full Disk Encryption- 4 <br>
+
+​							Example:  `$encryptionvalue  = "4"`<br>Output:
+
+![cipher](Images/encryption.png)
+
+------
+
