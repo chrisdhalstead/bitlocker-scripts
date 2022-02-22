@@ -40,7 +40,7 @@ Usage:
 
 Output:
 
-![Cipher](https://github.com/chrisdhalstead/bitlocker-sensors/blob/master/Images/cipher.png)
+![Cipher](https://github.com/chrisdhalstead/bitlocker-sensors/blob/main/Images/cipher.png)
 
 ------
 
@@ -63,7 +63,7 @@ Usage:
 
 ​							Example:  `$encryptionvalue  = "4"`<br>Output:
 
-![Encryption](https://github.com/chrisdhalstead/bitlocker-sensors/blob/master/Images/encryption.png)
+![Encryption](https://github.com/chrisdhalstead/bitlocker-sensors/blob/main/Images/encryption.png)
 
 ------
 
