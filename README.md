@@ -21,13 +21,13 @@ Usage:
 
 ​							Values:
 
-​								OS Drive - EncryptionMethodWithXtsOs
-​								Fixed Drives - EncryptionMethodWithXtsFdv
-​								Removable Drives - EncryptionMethodWithXtsRdv
+​								OS Drive - EncryptionMethodWithXtsOs <br>
+​								Fixed Drives - EncryptionMethodWithXtsFdv <br>
+​								Removable Drives - EncryptionMethodWithXtsRdv<br>
 
-​								Example:  $key_name = "EncryptionMethodWithXtsRdv"
+​								Example:  $key_name = "EncryptionMethodWithXtsRdv"<br>
 
-​				  `$ciphervalue = "cipher-value"`
+​				  `$ciphervalue = "cipher-value"` - The cipher value
 
 ​							Values:
 
