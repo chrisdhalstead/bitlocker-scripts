@@ -40,6 +40,6 @@ Usage:
 
 Output:
 
-![cipher](https://github.com/chrisdhalstead/bitlocker-sensors\Images\cipher.png)
+![cipher](https://github.com/chrisdhalstead/bitlocker-sensors/Images/cipher.png)
 
 ​	
