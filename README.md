@@ -63,7 +63,7 @@ Usage:
 
 ​							Example:  `$encryptionvalue  = "4"`<br>Output:
 
-![cipher](https://github.com/chrisdhalstead/bitlocker-sensors/blob/master/Images//encryption.png)
+![encyption](https://github.com/chrisdhalstead/bitlocker-sensors/blob/master/Images/encryption.png)
 
 ------
 
