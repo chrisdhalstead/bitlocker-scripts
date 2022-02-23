@@ -40,7 +40,7 @@ Usage:
 
 Output:
 
-![Cipher](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/cipher.png)<br>
+![Cipher](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/cipher1.png)<br>
 
 ![Cipher](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/cipherlog.png)
 
@@ -65,7 +65,7 @@ Usage:
 
 ​							Example:  `$encryptionvalue  = "4"`<br>Output:
 
-![Encryption](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/encryption.png)<br>
+![Encryption](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/encryption1.png)<br>
 
 ![Encryption](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/encryptionlog.png)
 
