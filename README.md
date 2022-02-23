@@ -1,13 +1,13 @@
-# bitlocker-sensors
-Sensor Scripts for Workspace ONE UEM to Configure Bitlocker
+# bitlocker-scripts
+PowerShell Scripts for Workspace ONE UEM to Configure Bitlocker
 
 These scripts are provided 'as-is' and is not supported by VMware
 
-They should be deployed as Workspace ONE UEM Sensors for Windows 10/11
+They should be deployed as Workspace ONE UEM Scripts for Windows 10/11
 
 ------
 
-**bitlocker_cipher_strength_sensor.ps1** - Set the Encryption Cipher Strength for Bitlocker Enabled Drives (OS, Physical or Removable)
+**<u>bitlocker_cipher_strength.ps1</u>** - Set the Encryption Cipher Strength for Bitlocker Enabled Drives (OS, Physical or Removable)
 
 Return Type: String
 
@@ -40,11 +40,13 @@ Usage:
 
 Output:
 
-![Cipher](https://github.com/chrisdhalstead/bitlocker-sensors/blob/main/Images/cipher.png)
+![Cipher](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/cipher.png)<br>
+
+![Cipher](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/cipherlog.png)
 
 ------
 
-**bitlocker_encryption_type_sensor.ps1** - Set the Encryption Type for Bitlocker to go Enabled Removable Drives.	
+**<u>bitlocker_encryption_type.ps1</u>** - Set the Encryption Type for Bitlocker to go Enabled Removable Drives.	
 
 Return Type: String
 
@@ -63,7 +65,9 @@ Usage:
 
 ​							Example:  `$encryptionvalue  = "4"`<br>Output:
 
-![Encryption](https://github.com/chrisdhalstead/bitlocker-sensors/blob/main/Images/encryption.png)
+![Encryption](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/encryption.png)<br>
+
+![Encryption](https://github.com/chrisdhalstead/bitlocker-scripts/blob/main/Images/encryptionlog.png)
 
 ------
 
