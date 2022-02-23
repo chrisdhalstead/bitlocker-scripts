@@ -1,4 +1,4 @@
-# PowerShell Sensor to Set Bitlocker Cipher Strength
+# PowerShell Script to Set Bitlocker Cipher Strength
 # Return Type: String
 # Context: System
 

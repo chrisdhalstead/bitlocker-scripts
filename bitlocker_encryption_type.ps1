@@ -1,4 +1,4 @@
-# PowerShell Sensor to Set Bitlocker Removable Drive Encryption Type
+# PowerShell Script to Set Bitlocker Removable Drive Encryption Type
 # Return Type: String
 # Context: System
 
