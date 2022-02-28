@@ -1,7 +1,7 @@
 # bitlocker-scripts
 PowerShell Scripts for Workspace ONE UEM to Configure Bitlocker
 
-These scripts are provided 'as-is' and is not supported by VMware
+These scripts are provided 'as-is' and are not supported by VMware
 
 They should be deployed as Workspace ONE UEM Scripts for Windows 10/11
 
